@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é Willian, amo tecnologia desde criança e atualmente estou imergindo nesse mundo, estudando backend na Cubos Academy.
+Olá, meu nome é Willian, amo tecnologia desde criança e estou imergindo nesse mundo, estudando backend na Cubos Academy.
 
 Atualmente estou mais focado em aprender:
 
