@@ -1,12 +1,12 @@
 ### Hi there 👋
 Olá, meu nome é Willian, e atualumente estou estudando backend na Cubos Academy.
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/ed315e54-2b3f-4bd2-9621-5e4bb9b1ee08)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/c814dfdf-09aa-4b75-808d-479995766488)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/e01fde87-108b-49b4-8317-74df457579ee)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/51746669-3c0e-49f5-b6ed-4a6d8504dc8d)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/5ae98091-2366-4de7-927c-89309aea40cb)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/d89f2f32-7d7e-4227-bfaf-a9b013557142)
-![image](https://github.com/willa-borges/willa-borges/assets/141872446/62a37edf-b0d0-4bdf-939c-5596d8d72109)
+
+
+
+Atualmente estou mais focado em aprender:
+Programando em: <i class="devicon-javascript-plain colored"></i>
+Utilizando o <i class="devicon-nodejs-plain-wordmark colored"></i>
+Versionando códigos em: <i class="devicon-git-plain-wordmark colored"></i>
 
 <!--
 **willa-borges/willa-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
