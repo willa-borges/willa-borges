@@ -1,7 +1,7 @@
 ### Hi there 👋
 Olá, meu nome é Willian, amo tecnologia desde criança e estou imergindo nesse mundo, estudando backend na Cubos Academy.
 
-Atualmente estou mais focado em aprender:
+Atualmente estou mais focado em aprender utilizando as ferramentas a seguir:
 
 Programando em: 
 <img width="40" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
