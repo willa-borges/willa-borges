@@ -12,7 +12,7 @@ interpretando com:
 Versionando códigos em: 
 <img width="40" heigth="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
-Logo mais estarei me dedicando a abranger  meus conhecimentos na área do backend e também frontend
+Aprendendo frontend...
 <!--
 **willa-borges/willa-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
