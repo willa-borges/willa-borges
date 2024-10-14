@@ -26,7 +26,7 @@ Atualmente estou mais focado em aprender frontend para ser um fullstack.
 ## Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willa-borges&theme=blue-green_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willa-borges&layout=compact&langs_count=7&theme=react)
 
 ## Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=willa-borges&theme=bluegreen=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
