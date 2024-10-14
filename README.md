@@ -1,18 +1,9 @@
 ### Hi there 👋
-Olá, meu nome é Willian, amo tecnologia desde criança e estou imergindo nesse mundo, estudando backend na Cubos Academy.
+Olá, meu nome é Willian, amo tecnologia desde criança e estou imergindo nesse mundo, ja estudei backend e agora estudo frontend
 
-Atualmente estou mais focado em aprender utilizando as ferramentas a seguir:
+Atualmente estou mais focado em aprender frontend para ser um fullstack.
 
-Programando em: 
-<img width="40" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-interpretando com:  
-<img width="40" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> 
-
-Versionando códigos em: 
-<img width="40" heigth="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-
-Aprendendo frontend...
 <!--
 **willa-borges/willa-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
