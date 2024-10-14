@@ -1,8 +1,9 @@
+# Willian Borges
+
 ### Hi there 👋
 Olá, meu nome é Willian, amo tecnologia desde criança e estou imergindo nesse mundo, ja estudei backend e agora estudo frontend
 
 Atualmente estou mais focado em aprender frontend para ser um fullstack.
-# Willian Borges
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willaborges/)
